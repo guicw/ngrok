@@ -16,3 +16,7 @@ ngrok：/usr/local/ngrok
 
 详细教程看博客：[www.sunnyos.com](http://www.sunnyos.com "Sunny博客")  
 搭建好免费提供的ngrok服务：[www.ngrok.cc](http://www.ngrok.cc "www.ngrok.cc")  
+
+
+ngrok+nginx反向代理配置 与其他站点共用80端口及ngrok后台运行
+https://www.jianshu.com/p/cd937631a88b
